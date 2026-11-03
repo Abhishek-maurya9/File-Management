@@ -40,7 +40,7 @@ File-Management/
 1. Clone the repository:
 
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/Abhishek-maurya9/File-Management
    ```
 
 2. Navigate to the project directory:
